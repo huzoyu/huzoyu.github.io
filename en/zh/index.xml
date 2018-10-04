@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhs on Zhongyu Hugo Hu</title>
+    <link>https://huzoyu.github.io/en/zh/</link>
+    <description>Recent content in Zhs on Zhongyu Hugo Hu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Oct 2018 06:33:40 +0800</lastBuildDate>
+    
+	<atom:link href="https://huzoyu.github.io/en/zh/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First</title>
+      <link>https://huzoyu.github.io/en/zh/posts/first/</link>
+      <pubDate>Wed, 03 Oct 2018 06:33:40 +0800</pubDate>
+      
+      <guid>https://huzoyu.github.io/en/zh/posts/first/</guid>
+      <description>这是我的第一篇文章。</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://huzoyu.github.io/en/zh/about/</link>
+      <pubDate>Wed, 03 Oct 2018 06:31:18 +0800</pubDate>
+      
+      <guid>https://huzoyu.github.io/en/zh/about/</guid>
+      <description> 这是我的个人介绍，稍后会补充  https://github.com/huzoyu
+ </description>
+    </item>
+    
+  </channel>
+</rss>

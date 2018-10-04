@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Zhongyu Hugo Hu</title>
-    <link>https://huzoyu.github.io/posts/</link>
+    <link>https://huzoyu.github.io/en/posts/</link>
     <description>Recent content in Posts on Zhongyu Hugo Hu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 03 Oct 2018 06:33:40 +0800</lastBuildDate>
     
-	<atom:link href="https://huzoyu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://huzoyu.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First</title>
-      <link>https://huzoyu.github.io/posts/first/</link>
+      <link>https://huzoyu.github.io/en/posts/first/</link>
       <pubDate>Wed, 03 Oct 2018 06:33:40 +0800</pubDate>
       
-      <guid>https://huzoyu.github.io/posts/first/</guid>
+      <guid>https://huzoyu.github.io/en/posts/first/</guid>
       <description>This is the first article.</description>
     </item>
     
