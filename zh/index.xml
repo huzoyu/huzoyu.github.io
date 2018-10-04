@@ -6,10 +6,23 @@
     <description>Recent content on 胡忠宇</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 04 Oct 2018 16:30:53 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 05 Oct 2018 07:47:19 +0800</lastBuildDate>
     
 	<atom:link href="https://huzoyu.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hugo常用指令</title>
+      <link>https://huzoyu.github.io/zh/%E5%8D%9A%E5%AE%A2/hugo%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/</link>
+      <pubDate>Fri, 05 Oct 2018 07:47:19 +0800</pubDate>
+      
+      <guid>https://huzoyu.github.io/zh/%E5%8D%9A%E5%AE%A2/hugo%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/</guid>
+      <description> 开启本地服务器
+   hugo server &amp;ndash;theme=你的hugo主题
+  编译静态网页
+   hugo &amp;ndash;theme=你的hugo主题 &amp;ndash;baseUrl=你的GitHub静态网页博客项目地址
+ </description>
+    </item>
     
     <item>
       <title>Hugo多语言项目结构</title>
