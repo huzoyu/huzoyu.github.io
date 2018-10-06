@@ -6,10 +6,36 @@
     <description>Recent content in 博客s on 胡忠宇</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 05 Oct 2018 07:47:19 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 06 Oct 2018 14:06:45 +0800</lastBuildDate>
     
 	<atom:link href="https://huzoyu.github.io/zh/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>常用入门git指令</title>
+      <link>https://huzoyu.github.io/zh/%E5%8D%9A%E5%AE%A2/%E5%B8%B8%E7%94%A8%E5%85%A5%E9%97%A8git%E6%8C%87%E4%BB%A4/</link>
+      <pubDate>Sat, 06 Oct 2018 14:06:45 +0800</pubDate>
+      
+      <guid>https://huzoyu.github.io/zh/%E5%8D%9A%E5%AE%A2/%E5%B8%B8%E7%94%A8%E5%85%A5%E9%97%A8git%E6%8C%87%E4%BB%A4/</guid>
+      <description>当前目录内创建新仓库
+&amp;gt;git init
+克隆远端仓库（GitHub）
+&amp;gt;git clone $远端仓库地址
+添加改动到缓存区
+&amp;gt;git add *
+提交改动至本地仓库
+&amp;gt;git commit -m &amp;ldquo;提交代码&amp;rdquo;
+推送改动至远端仓库
+&amp;gt;git push origin master
+创建并切换到分支
+&amp;gt;git checkout -b feature_X
+切换回主分支
+&amp;gt;git checkout master
+删除新建分支
+&amp;gt;git branch -d feature_X
+更新本地仓库
+&amp;gt;git pull</description>
+    </item>
     
     <item>
       <title>Hugo常用指令</title>
